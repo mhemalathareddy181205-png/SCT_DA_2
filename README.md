@@ -49,7 +49,7 @@ This project focuses on data cleaning and preprocessing using Python and Pandas.
 
 * DATA_CLEAN.ipynb
 * Cleaned_train.xlsx / Cleaned_train.csv
-* DATA CLEAN.ipynb-Colab (pdf)
+* DATA CLEAN.ipynb-Colab.pdf
 * README.md
 
 ## Key Learning Outcomes
